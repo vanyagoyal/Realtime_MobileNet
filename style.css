@@ -1,0 +1,40 @@
+.heading {
+    font-size:23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 10px lightcoral;
+}
+.heading_div {
+    float:none;
+    padding: 10px;
+    background: white;
+    border-radius: 20px;
+    color:teal;
+    box-shadow: 10px 10px 10px rgb(252, 197, 80);
+}
+.heading_div2 {
+    font-size:18px;
+}
+.result_p {
+    font-size:20px;
+    box-shadow: 5px 5px 10px rgb(241, 93, 116);
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    color:white;
+    background: darkgrey;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:100%;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px cyan;
+    margin-top: 350px;
+}
+.result_p span {
+    white-space: pre-line;
+}
